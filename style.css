@@ -4,16 +4,9 @@ body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-.container {
-    width: 100%;
-    height: 250px;
-    padding: 30;
-    background-color: #2A2A2A ;
-}
-
 h1 {
   text-align:center;
-  color: #eaedda;
+  color: #ffffff;
 }
 
 img {
