@@ -10,7 +10,15 @@ h1 {
 }
 
 a {
-  color: #6e7cce;
+  color: #8ea8ff;
+}
+
+a:hover {
+  color: #746ce7;
+}
+
+a:visited {
+  color: #8ea8ff;
 }
 
 img {
