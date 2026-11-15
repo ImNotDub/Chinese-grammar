@@ -11,6 +11,7 @@ h1 {
 
 a {
   color: #8ea8ff;
+  margin-right: 100px;
 }
 
 a:hover {
@@ -18,8 +19,10 @@ a:hover {
 }
 
 a:visited {
-  color: #8ea8ff;
+  color: #ff8e8e;
 }
+
+
 
 img {
     display: block;
